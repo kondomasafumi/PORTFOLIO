@@ -22,9 +22,8 @@ Next.js（App Router） と Supabase（Auth + Database） を用いて、現場�
 - CI/CD：GitHub Actions（ESLint実行）
 
 ## 設計ドキュメント
-要件定義・基本設計・詳細設計一覧（Googleスプレッドシート）
-- 詳細設計時のワイヤーフレーム、ER図、ワークフロー図は /docs フォルダに格納予定。
-（こちらからアクセス）
+[要件定義・基本設計・詳細設計一覧（Googleスプレッドシート）]https://docs.google.com/spreadsheets/d/1dMkp3gGr8eLXPs4OQAAZqtBkeIdpUbkYJBrUoJkvikc/edit?usp=sharing
+- 詳細設計時のワイヤーフレーム、ER図、ワークフロー図は /docs フォルダに格納。[こちらからアクセス](./docs)
 
 ## 機能一覧
 - ユーザー登録・ログイン機能
