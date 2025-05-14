@@ -11,31 +11,25 @@ Next.js（App Router） と Supabase（Auth + Database） を用いて、現場�
 （デプロイ後にURLを記載）
 
 ## 使用技術
-フロントエンド：Next.js 15.3（App Router）
-
-バックエンド：Next.js 15.3 API Routes
-
-データベース：Supabase PostgreSQL
-
+- フロントエンド：Next.js 15.3（App Router）
+- バックエンド：Next.js 15.3 API Routes
+ データベース：Supabase PostgreSQL
 認証：Supabase Auth（メール・パスワード認証）
-
 デプロイ：Vercel
-
 バージョン管理：Git、GitHub
-
 テスト・デバッグ：DevTools（Chrome）
 
 UIライブラリ：Shadcn UI（Toast通知・モーダル）
 
 CI/CD：GitHub Actions（ESLint実行）
 
-設計ドキュメント
+## 設計ドキュメント
 要件定義・基本設計・詳細設計一覧（Googleスプレッドシート）
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図は /docs フォルダに格納予定。
 （こちらからアクセス）
 
-機能一覧
+## 機能一覧
 ユーザー登録・ログイン機能
 
 メールアドレス＋パスワードで認証
